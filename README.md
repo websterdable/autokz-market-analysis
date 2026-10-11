@@ -95,7 +95,8 @@
 
 ## Стек
 
-`Python 3.9` · `pandas` · `numpy` · `matplotlib` · `seaborn` · `scipy`
+`Python` · `pandas` · `numpy` · `matplotlib` · `seaborn`
+
 
 ## Как запустить
 
